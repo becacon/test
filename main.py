@@ -1,5 +1,6 @@
 import pygame , sys
 #cangu
+#push them
 import numpy as np
 from pygame.locals import*
 pygame.init()
